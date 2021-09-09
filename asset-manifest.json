@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FrancoParisExamenF3/static/css/main.90589ed2.chunk.css",
+    "main.js": "/FrancoParisExamenF3/static/js/main.76dd4ed5.chunk.js",
+    "main.js.map": "/FrancoParisExamenF3/static/js/main.76dd4ed5.chunk.js.map",
+    "runtime-main.js": "/FrancoParisExamenF3/static/js/runtime-main.e66bb544.js",
+    "runtime-main.js.map": "/FrancoParisExamenF3/static/js/runtime-main.e66bb544.js.map",
+    "static/js/2.00451e08.chunk.js": "/FrancoParisExamenF3/static/js/2.00451e08.chunk.js",
+    "static/js/2.00451e08.chunk.js.map": "/FrancoParisExamenF3/static/js/2.00451e08.chunk.js.map",
+    "index.html": "/FrancoParisExamenF3/index.html",
+    "static/css/main.90589ed2.chunk.css.map": "/FrancoParisExamenF3/static/css/main.90589ed2.chunk.css.map",
+    "static/js/2.00451e08.chunk.js.LICENSE.txt": "/FrancoParisExamenF3/static/js/2.00451e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66bb544.js",
+    "static/js/2.00451e08.chunk.js",
+    "static/css/main.90589ed2.chunk.css",
+    "static/js/main.76dd4ed5.chunk.js"
+  ]
+}
